@@ -4,7 +4,7 @@ j=1
 k = 1
 fib = 1
 sum = 0
-while fib < 4000000:
+while fib <= 4000000:
     j = k
     k = fib
     fib = k + j
