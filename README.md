@@ -1,3 +1,3 @@
 # ProjectEuler
 
-Solutions I've come with to Project Euler 
+Some solutions to Project Euler problems that I've written. Will update as more are solved...
