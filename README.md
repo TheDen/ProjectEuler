@@ -1,3 +1,3 @@
 # ProjectEuler
 
-Project Euler solutions
+Solutions I've come with to Project Euler 
