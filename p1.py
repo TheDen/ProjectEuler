@@ -6,7 +6,4 @@ for  i in range(1,1000):
         j = j+i
     elif i%5==0:
         j = j+i
-        
-    # print '%d' % i
-    
 print j

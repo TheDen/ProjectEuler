@@ -9,6 +9,5 @@ while fib <= 4000000:
     k = fib
     fib = k + j
     if fib%2==0:
-       sum = sum + fib
+        sum = sum + fib
 print sum
-    

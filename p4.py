@@ -25,6 +25,3 @@ for i in range(1,maxnum+1):
     multiplier =  maxnum
     digitmax = digitmax - i
 print maxpal    
-
-
-
