@@ -2,7 +2,6 @@
 
 
 class Solution:
-
     def twoSum(self, nums, target):
         nums
         soln = []
